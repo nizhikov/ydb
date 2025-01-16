@@ -14,6 +14,7 @@
 
 # C libraries
 *.so
+*.so.*
 *.a
 
 # Byte-compiled / optimized / DLL files
@@ -88,3 +89,7 @@ bin/config.json
 
 # handy for local junk, which is not intended to appear in the repo
 junk/
+
+*.protosrc
+*.tar.gz
+*.lite
