@@ -305,6 +305,7 @@ END()
 RECURSE_FOR_TESTS(
     ut_background_compaction
     ut_build_index
+    ut_cdc_serializer_format
     ut_change_collector
     ut_change_exchange
     ut_column_stats
